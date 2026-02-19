@@ -13,7 +13,7 @@ def subtract(a, b):
 
 def multiply(a, b):
     """Multiply two numbers."""
-    return a * b * b
+    return a * b
 
 
 def divide(a, b):
